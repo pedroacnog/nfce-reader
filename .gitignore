@@ -1,0 +1,5 @@
+env
+img
+*.pyc
+.vscode
+.DS_Store
